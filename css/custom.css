@@ -1,0 +1,87 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron { 
+	text-align: center;
+	background-color: #2E2E2E;
+	color: white;
+}
+.jumbotron img {
+	margin-bottom: 30px;
+}
+
+.btn-lg {
+	font-size: 24px;
+}
+
+.jumbotron h1 {
+	font-family: 'Arvo', serif;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
+.jumbotron p {
+	font-size: 25px;
+	padding-top: 5px;
+	margin-bottom: 30px;
+	font-weight:100;
+	padding: 0 50px;
+}
+
+.jumbotron2 { 
+	text-align: center;
+	background-color: #5cb85c;
+	color: white;
+}
+
+.jumbotron2 h1 {
+	font-family: 'Arvo', serif;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	padding-top: 30px;
+}
+
+.jumbotron2 h2 {
+	text-align: center;
+	font-family: 'Arvo', serif;'
+
+}
+
+.jumbotron2 p {
+	font-size: 22px;
+	padding-top: 5px;
+	margin-bottom: 30px;
+	font-weight:100;
+	padding: 0 50px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.navbar {
+	font-family: 'Arvo', serif;
+	font-size: 20px;
+}
+
+.homepage {
+	text-align: center;
+	font-weight: 300;
+	font-size: 21px;
+
+}
+.homepage h2 {
+	text-align: center;
+	font-family: 'Arvo', serif;'
+}
+
+.logos {
+	position: relative;
+	padding-bottom: 10px;
+}
+
+.homepage h1 {
+	font-family: 'Arvo', serif;
+	text-align: center;
+}
