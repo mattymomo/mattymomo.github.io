@@ -150,4 +150,11 @@ body {
 }
 }
 
+@media (max-width: 461px) { 
+.jumbotron3 h2  {
+	padding: 0px;
+	font-size: 14px;
+
+}
+}
 
