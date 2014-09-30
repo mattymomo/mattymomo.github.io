@@ -113,5 +113,35 @@ body {
 .container {
     position: relative;
     width: 75%;
+}
 
 /* Responsive styling */
+@media (max-width: 348px) { 
+.jumbotron img {
+	text-align: left;
+}
+}
+
+@media (max-width: 348px) { 
+.jumbotron p {
+	padding: 0px;
+	font-size: 24px;
+}
+}
+
+@media (max-width: 629px) { 
+.jumbotron  {
+	padding: 0px;
+
+}
+}
+
+@media (max-width: 629px) { 
+.jumbotron p  {
+	padding: 0px;
+	font-size: 22px;
+
+}
+}
+
+
