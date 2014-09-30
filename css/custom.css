@@ -74,6 +74,7 @@ body {
 }
 
 .jumbotron3 p {
+	text-align: left;
 	font-size: 25px;
 	padding-top: 5px;
 	margin-bottom: 30px;
@@ -95,6 +96,11 @@ body {
 }
 
 .homepage h2 {
+	text-align: center;
+	font-family: 'Arvo', serif;'
+}
+
+.jumbotron3 h2 {
 	text-align: center;
 	font-family: 'Arvo', serif;'
 }
