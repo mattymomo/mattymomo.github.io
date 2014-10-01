@@ -63,6 +63,7 @@ body {
 	text-align: center;
 	background-color: #2E2E2E;
 	color: white;
+	position: relative;
 }
 
 .jumbotron3 h1 {
@@ -134,6 +135,13 @@ body {
 	font-size: 41px;
 	padding-top: 22px;
 	padding-bottom: 40px;
+}
+
+#back-to-top {
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	color: #333;
 }
 
 
