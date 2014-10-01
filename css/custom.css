@@ -36,7 +36,6 @@ body {
 	background-color: #5cb85c;
 	color: white;
 	padding-top: 50px;
-	padding-bottom: 100px;
 	position: relative;
 }
 
@@ -120,6 +119,23 @@ body {
     position: relative;
     width: 75%;
 }
+
+.skills {
+	text-align: center;
+	font-weight: 300;
+	font-size: 21px;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+.skills h1 {
+	font-family: 'Arvo', serif;
+	text-align: center;
+	font-size: 41px;
+	padding-top: 22px;
+	padding-bottom: 40px;
+}
+
 
 /* Responsive styling */
 @media (max-width: 348px) { 
