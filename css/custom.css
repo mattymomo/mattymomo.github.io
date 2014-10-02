@@ -182,3 +182,11 @@ body {
 }
 }
 
+@media (min-width: 768px) { 
+.navbar-brand {
+	margin-left: -105px;
+	position: absolute;
+
+}
+}
+
