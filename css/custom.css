@@ -12,6 +12,7 @@ body {
 }
 .jumbotron img {
 	margin-bottom: 30px;
+	position: relative;
 }
 
 .btn-lg {
