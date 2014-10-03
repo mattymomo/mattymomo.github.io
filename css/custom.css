@@ -194,8 +194,7 @@ body {
 }
 
 @media screen and (max-width: 991px) {
-
-    .skills img {display:none;}
+.skills img {display:none;}
 
 }
 
