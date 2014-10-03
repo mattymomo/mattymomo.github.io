@@ -147,6 +147,11 @@ body {
 	color: #333;
 }
 
+#skills-txt {
+	padding-right: 45px;
+	padding-top: 25px;
+}
+
 
 /* Responsive styling */
 @media (max-width: 348px) { 
