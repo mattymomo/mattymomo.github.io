@@ -8,6 +8,7 @@ body {
 	background-color: #2E2E2E;
 	color: white;
 	padding-bottom: 50px;
+	padding-top: 110px;
 }
 .jumbotron img {
 	margin-bottom: 30px;
@@ -163,7 +164,7 @@ body {
 
 @media (max-width: 629px) { 
 .jumbotron  {
-	padding: 0px;
+	padding: 28px;
 
 }
 }
@@ -184,6 +185,20 @@ body {
 }
 }
 
+@media (max-width: 991px) { 
+.col-md-4  {
+	padding-right: 100px;
+
+}
+}
+
+@media (max-width: 991px) { 
+.col-md-4  {
+	padding-right: 100px;
+
+}
+}
+
 @media (min-width: 768px) { 
 .navbar-brand {
 	margin-left: -105px;
@@ -192,9 +207,6 @@ body {
 }
 }
 
-@media screen and (max-width: 985px) {
 
-    .skills img {display:none;}
 
-}
 
