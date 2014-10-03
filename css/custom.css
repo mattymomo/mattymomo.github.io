@@ -13,6 +13,7 @@ body {
 .jumbotron img {
 	margin-bottom: 30px;
 	position: relative;
+	max-width: 200px;
 }
 
 .btn-lg {
